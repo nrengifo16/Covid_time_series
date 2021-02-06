@@ -1,2 +1,2 @@
 # Covid_time_series
-Traditional approach to forecast reported cases
+Traditional time series approach (ARIMA & GARCH) to forecast reported cases of COVID-19 in Colombia.
